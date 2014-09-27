@@ -2,7 +2,7 @@ rateFunction()
 function rateFunction(){
        
 var cfg = {
-        usesUntilPrompt: 10,
+        usesUntilPrompt: 1,
         displayAppName: "My Super App",
         customLocale: {
             title: "Rate %@",
