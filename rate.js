@@ -1,4 +1,4 @@
-  function rateFunction(){
+function rateFunction(){
        
 var cfg = {
         usesUntilPrompt: 1,
@@ -17,3 +17,4 @@ var cfg = {
     navigator.apprate.promptForRating();
    
        }
+alert("work")
