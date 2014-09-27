@@ -1,6 +1,6 @@
 function rateFunction(){
        
-alert("renew")
+alert("renew2")
    
        }
 
