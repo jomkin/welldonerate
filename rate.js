@@ -19,3 +19,10 @@ var cfg = {
    
 }
 
+
+
+
+function gaanalyticfunction();{
+  analytics.trackEvent(clickIdobjstr, clickIdobj);
+  alert('wk')
+}
