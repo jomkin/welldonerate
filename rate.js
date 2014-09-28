@@ -22,7 +22,7 @@ var cfg = {
 
 
 
-function gaanalyticfunction();{
+function gaanalyticfunction(){
   analytics.trackEvent(clickIdobjstr, clickIdobj);
   alert('wk')
 }
